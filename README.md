@@ -39,3 +39,27 @@ This problem involves estimation of the delivery time for all the packages based
 * inquirer --> to implement the ask question feature
 * jest --> to write tests 
 
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. ***Clone the repository:***
+
+    - git clone courier-service
+    - cd courier-service
+    
+2. ***Install dependencies:***
+
+    - npm install
+
+3. ***Run the application:***
+    
+    - npm run start
+   
+4. ***Run the tests:***
+
+   - npm run test
+
